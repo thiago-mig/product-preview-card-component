@@ -52,10 +52,10 @@ h1 {
   font-size: 2rem;
   line-height: 2.1rem;
   color: rgb(28, 35, 43);
-  padding: 8%;
+  padding: 7%;
 }
 
-h3 {
+span {
   font-size: .7rem;
   font-weight: 500;
   letter-spacing: .3rem;
@@ -136,7 +136,7 @@ p {
     max-height: 40%;
   }
 
-  h3, h1, .card__content p, .card__content__prices {
+  span, h1, .card__content p, .card__content__prices {
     padding: 2% 4%;
   }
 
